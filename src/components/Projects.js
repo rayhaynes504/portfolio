@@ -4,7 +4,7 @@ import './projects.css'
 function Projects(props) {
     return (
         <div>
-            
+            Projects
         </div>
     );
 }

@@ -14,6 +14,6 @@ body {
 	background-image: url('../assets/background.png');
 	background-size: cover;
 	background-repeat: no-repeat;
-  color: var(--grey);
-  font-family: 'marker_feltregular', Arial, sans-serif;
+	color: var(--grey);
+	font-family: 'marker_feltregular', Arial, sans-serif;
 }

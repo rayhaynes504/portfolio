@@ -4,7 +4,7 @@ import './contact.css'
 function Contact(props) {
     return (
         <div>
-            
+            contact
         </div>
     );
 }
