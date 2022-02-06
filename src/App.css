@@ -1,0 +1,16 @@
+:root {
+	--light-blue: rgba(135, 186, 235);
+	--green: rgba(119, 169, 76);
+	--grey: rgba(133, 133, 133);
+}
+
+.App {
+	min-height: 100vh;
+	background-color: bisque;
+	background-image: url('../assets/background.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+  color: var(--grey);
+  font-family: 'marker_feltregular', Arial, sans-serif;
+}
+
