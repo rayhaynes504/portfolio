@@ -1,10 +1,14 @@
 :root {
-	--light-blue: rgba(135, 186, 235);
-	--green: rgba(119, 169, 76);
-	--grey: rgba(133, 133, 133);
+	--header-color: rgba(135, 186, 235);
+	--title-text-color: rgba(96, 165, 217);
+	--accent-text-color: rgba(119, 169, 76);
+	--regular-text-color: rgba(133, 133, 133);
+}
+* {
+	/* border: 1px solid red; */
 }
 
-.App {
+body {
 	min-height: 100vh;
 	background-color: bisque;
 	background-image: url('../assets/background.png');
@@ -13,4 +17,3 @@
   color: var(--grey);
   font-family: 'marker_feltregular', Arial, sans-serif;
 }
-

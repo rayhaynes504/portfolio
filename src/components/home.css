@@ -1,0 +1,13 @@
+.home-container {
+	margin: 15rem auto;
+	text-align: center;
+	font-size: 2rem;
+	max-width: 1000px;
+}
+h1 {
+	color: var(--title-text-color);
+}
+h3 {
+	color: var(--regular-text-color);
+	font-size: 1.5rem;
+}
