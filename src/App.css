@@ -10,7 +10,7 @@
 
 body {
 	min-height: 100vh;
-	background-color: bisque;
+	background-color: var(--header-color);
 	background-image: url('../assets/background.png');
 	background-size: cover;
 	background-repeat: no-repeat;
