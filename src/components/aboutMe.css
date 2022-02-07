@@ -25,14 +25,19 @@ p {
 	display: flex;
 	flex-wrap: wrap;
 	color: var(--regular-text-color);
+    /* justify-content: center; */
+    width: 90%;
+    margin: 0 auto;
 }
 .lists-container ul {
-	display: flex;
+	display: inline-flex;
 	flex-direction: column;
 	width: 25%;
 	min-width: 100px;
 	margin: 0 auto;
-	list-style: initial;
+	/* list-style: initial; */
+    /* align-items: flex-start; */
+    padding: .5rem 1rem;
 }
 .lists-container li {
 	line-height: 1.5rem;
