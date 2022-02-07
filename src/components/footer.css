@@ -1,0 +1,11 @@
+.footer-container {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	background-color: var(--accent-text-color);
+	color: white;
+}
+.icons {
+    font-size: 1.65rem;
+    padding: .1rem .4rem;
+}
