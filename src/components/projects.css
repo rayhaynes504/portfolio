@@ -1,6 +1,6 @@
 .projects-container {
 	margin: 0.5rem auto;
-	max-width: 1000px;
+	max-width: 1200px;
 }
 
 .projects-container h2 {
@@ -8,16 +8,32 @@
 }
 .projects {
 	margin: 0 auto;
-    text-align: center;
+	text-align: center;
 }
-
+.project-section {
+	display: flex;
+	padding: 0 1rem;
+	/* max-width: 1500px; */
+	margin: 2rem 1rem;
+}
+.project-section a {
+	width: 45%;
+}
+.project-section p {
+	width: 55%;
+	padding: 1rem;
+	margin: auto auto;
+	line-height: 2rem;
+	/* border-bottom: .5px dotted black; */
+	border-radius: 1rem;
+	text-shadow: 1rem 1rem 2.5rem var(--header-color);
+}
 .project-image {
-	width: 40%;
+	width: 85%;
 	padding: 1.5rem;
-    min-width: 325px;
-    border-radius: 2rem;
+	border: 0.5px double black;
+	border-radius: 2rem;
 }
 .project-image:hover {
-    box-shadow: .1115rem .1115rem .1115rem .1115rem  var(--accent-text-color);
-
+	box-shadow: 0.1115rem 0.1115rem 0.1115rem 0.1115rem var(--accent-text-color);
 }

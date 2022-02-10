@@ -6,7 +6,7 @@ h2 {
 	color: var(--title-text-color);
 	text-align: center;
 	font-size: 2.5rem;
-	margin: 5rem 2rem 4rem 2rem ;
+	margin: 5rem 2rem 3rem 2rem ;
 }
 .skills {
 	color: var(--accent-text-color);
@@ -20,6 +20,7 @@ p {
 	font-size: 1.5rem;
 	text-align: center;
 	margin: 2rem auto;
+	padding: 0 2rem;
 }
 .lists-container {
 	display: flex;
