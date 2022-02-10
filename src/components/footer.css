@@ -6,6 +6,9 @@
 	color: white;
 }
 .icons {
-    font-size: 1.65rem;
-    padding: .1rem .4rem;
+	font-size: 1.65rem;
+	padding: 0.1rem 0.4rem;
+}
+.icons:hover {
+	transform: scale(1.1);
 }
