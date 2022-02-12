@@ -15,7 +15,6 @@
 	flex-wrap: wrap;
 	padding: 0 1rem;
 	justify-content: center;
-	
 	margin: 2rem 1rem;
 }
 .project-section a {
@@ -40,4 +39,11 @@
 }
 .project-image:hover {
 	box-shadow: 0.1115rem 0.1115rem 0.1115rem 0.1115rem var(--accent-text-color);
+}
+.github-link {
+	text-decoration: underline;
+	color: var(--header-color);
+}
+.github-link:hover {
+	filter: brightness(1.15);
 }
