@@ -6,8 +6,9 @@
 }
 h1 {
 	color: var(--title-text-color);
+	font-size: 5rem;
 }
 h3 {
 	color: var(--regular-text-color);
-	font-size: 1.5rem;
+	font-size: 1.75rem;
 }

@@ -4,6 +4,7 @@
 	right: 0;
 	background-color: var(--accent-text-color);
 	color: white;
+	border-top-left-radius: 1rem;
 }
 .icons {
 	font-size: 1.65rem;
