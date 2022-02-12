@@ -20,6 +20,15 @@ function Projects(props) {
 						Tooly is a peer to peer power tool rental app. Instead of buying a
 						specialty tool you won't frequently use, grab the Tooly app to
 						secure a tool for the time needed and complete your project!
+						<br />
+						<br /> Github repo{' '}
+						<a
+							className='github-link'
+							href='https://github.com/Squirtle-Squad-1150/Tooly'
+							target='_blank'
+							rel='noreferrer'>
+							here
+						</a>
 					</p>
 				</section>
 				<section className='project-section'>
@@ -28,6 +37,15 @@ function Projects(props) {
 						Baer and Howard J. Morrison, working for toy design firm Marvin
 						Glass and Associates, with software programming by Lenny Cope. This
 						is my rendition of their game.
+						<br />
+						<br /> Github repo{' '}
+						<a
+							className='github-link'
+							href='https://github.com/rayhaynes504/simon'
+							target='_blank'
+							rel='noreferrer'>
+							here
+						</a>
 					</p>
 					<a
 						href='https://rayhaynes504.github.io/simon/#'
@@ -51,6 +69,15 @@ function Projects(props) {
 						NASA has been uploading a daily astronomy image or video since 1995.
 						My app displays today's content and allows you to search for a
 						particular image or a range of images by date.
+						<br />
+						<br /> Github repo{' '}
+						<a
+							className='github-link'
+							href='https://github.com/rayhaynes504/simon'
+							target='_blank'
+							rel='noreferrer'>
+							here
+						</a>
 					</p>
 				</section>
 			</div>
