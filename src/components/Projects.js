@@ -32,7 +32,7 @@ function Projects(props) {
 					</p>
 				</section>
 				<section className='project-section'>
-					<p>
+					<p className='reverse-p'>
 						Simon is an electronic game of memory skill invented by Ralph H.
 						Baer and Howard J. Morrison, working for toy design firm Marvin
 						Glass and Associates, with software programming by Lenny Cope. This
@@ -47,7 +47,7 @@ function Projects(props) {
 							here
 						</a>
 					</p>
-					<a
+					<a 
 						href='https://rayhaynes504.github.io/simon/#'
 						rel='noreferrer'
 						target='_blank'>
