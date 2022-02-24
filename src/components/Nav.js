@@ -19,7 +19,7 @@ function Nav(props) {
 					<a
 						target='_blank'
 						rel='noreferrer'
-						href='https://app.box.com/s/rr6b1psgtgbg11mjhky3ty4x8pjnmega'>
+						href='https://app.box.com/s/w8hyn1yahsnnd3l0g0s4liftdblyt52s'>
 						Resume
 					</a>
 				</li>
