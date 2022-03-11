@@ -3,12 +3,35 @@ import './projects.css';
 import Simon from '../images/Simon.png';
 import Astronomy from '../images/astronomy.png';
 import Tooly from '../images/tooly.png';
+import bookTalk from '../images/booktalk.png'
 
 function Projects(props) {
 	return (
 		<div className='projects-container'>
 			<h2>Projects</h2>
 			<div className='projects'>
+				<section className='project-section'>
+					<p className='reverse-p'>
+						Book Talk, an application built to host book discussions. Users can
+						login, add a book that they would like to talk about, and leave
+						comments for other readers to respond to.
+						<br />
+						<br /> Github repo{' '}
+						<a
+							className='github-link'
+							href='https://github.com/K-Rcode/book-talk-frontend'
+							target='_blank'
+							rel='noreferrer'>
+							here
+						</a>
+					</p>
+					<a
+						href='https://book-talk.netlify.app/'
+						rel='noreferrer'
+						target='_blank'>
+						<img src={bookTalk} alt='Book Talk' className='project-image' />
+					</a>
+				</section>
 				<section className='project-section'>
 					<a
 						href='https://toooly.netlify.app/'
@@ -47,7 +70,7 @@ function Projects(props) {
 							here
 						</a>
 					</p>
-					<a 
+					<a
 						href='https://rayhaynes504.github.io/simon/#'
 						rel='noreferrer'
 						target='_blank'>
