@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './aboutMe.css';
 
 function AboutMe(props) {
-	const [showSkills, setShowSkills] = useState(false);
+	const [showSkills, setShowSkills] = useState(true);
 
 	return (
 		<div className='about-container'>
