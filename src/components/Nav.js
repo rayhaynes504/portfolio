@@ -19,7 +19,7 @@ function Nav(props) {
 					<a
 						target='_blank'
 						rel='noreferrer'
-						href='https://app.box.com/s/okvk7hivvqgbll0k8m5kyvg8izp8k76u'>
+						href='https://www.icloud.com/iclouddrive/039j90nlTijZRtx8FtKd9__gg#Hosted_Resume'>
 						Resume
 					</a>
 				</li>
